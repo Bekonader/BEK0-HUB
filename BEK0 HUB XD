@@ -571,3 +571,6 @@ loadstring(game:HttpGet("https://pastebin.com/raw/tWGxhNq0"))()
 
 end)
 
+Tab3Section:NewButton("admin lv","this admin have antibang",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/BloodyBurns/Hexx/main/Iv%20Admin/Admin%202.lua'))()
+end)
