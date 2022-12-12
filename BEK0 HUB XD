@@ -565,3 +565,9 @@ Tab1Section:NewButton("FullChatBypass","this make u can say anything",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/x114/RobloxScripts/main/FullChatBypass"))()
 
 end)
+Tab1Section:NewButton("Synapse X exp","this free and work in mobile",function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/tWGxhNq0"))()
+
+end)
+
